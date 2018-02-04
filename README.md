@@ -4,8 +4,8 @@ A [public-domain](/LICENSE) curated list of helpful resources for Malaysia SPM s
 Anyone is free to add anything to the list! If you don't know how to do it, you can create an issue so I will help to add it for you.
 
 ## Navigation
+* [Biology](/biology/README.md)
 ### TBA
-* Biology
 * Chemistry
 * Physics
 * Additional Mathematics
