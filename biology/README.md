@@ -9,3 +9,5 @@ Biology is the natural science that involves the study of life and living organi
 ## Syllabus
 
 * [Chapter 1](/biology/c1-introduction.md) - Introduction to Biology
+* [Chapter 2](/biology/c2-cells.md) - Cell Stucture and Cell Organisation
+* [Chapter 3](/biology/c3-movement.md) - Movement of Substances Across the Plasma Membrane
