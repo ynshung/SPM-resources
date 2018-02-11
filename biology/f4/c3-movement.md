@@ -4,7 +4,7 @@
 * [Cell Membranes and Cell Transport](https://www.youtube.com/watch?v=Ptmlvtei8hw) by Amoeba Sisters
 
 ## 3.2 - The Movement of Substances Across the Plasma Membrane in Everyday Life
-* [An experiment of osmosis in egg](https://www.youtube.com/watch?v=SSS3EtKAzYc) by XoletteScience
+* [An experiment of osmosis with eggs](https://www.youtube.com/watch?v=SSS3EtKAzYc) by XoletteScience
 * [Osmosis in potato strips](https://www.youtube.com/watch?v=jTDATlaBV-o) by Science Sauce
 * [Red blood cells under hypo and hypertonic solutions](https://www.youtube.com/watch?v=A8cI6FkcG4c) by Sci- Inspi
 * [Osmotic burst of blood cells](https://www.youtube.com/watch?v=OYoaLzobQmk) by CellBiophysics
