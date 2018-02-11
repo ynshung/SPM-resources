@@ -10,5 +10,5 @@ Anyone is free to add anything to the list! If you don't know how to do it, you 
 * Physics
 * Additional Mathematics
 * Modern Mathematics
-* History
+* Sejarah
 * English
