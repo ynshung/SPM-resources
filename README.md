@@ -1,7 +1,5 @@
 # SPM-resources
-A [public-domain](/LICENSE) curated list of helpful resources for Malaysia SPM students for the KBSM syllabus.
-
-Anyone is free to add anything to the list! If you don't know how to do it, you can create an issue so I will help to add it for you.
+A curated list of helpful resources for Malaysia SPM students for the KBSM syllabus such as videos, practical demostration, further explaination etc. Dedicated to students taking SPM in year 2019.
 
 ## Navigation
 * [Biology](/biology/README.md)
@@ -12,3 +10,6 @@ Anyone is free to add anything to the list! If you don't know how to do it, you 
 * Modern Mathematics
 * Sejarah
 * English
+
+## Contributing
+Anyone is free to add anything to the list! If you don't know how to do it, you can create an issue or complete this [survey](https://goo.gl/forms/1KehyrzzTy8kchAR2) so I will help to add it for you. Sadly, KSSM is replacing the Malaysian education so this will be only useful to only students taking SPM until year 2020.
