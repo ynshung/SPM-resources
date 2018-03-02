@@ -3,10 +3,10 @@ A curated list of helpful resources for Malaysia SPM students for the KBSM sylla
 
 ## Navigation
 * [Biology](/biology/README.md)
+* [Physics](/physics/README.md)
 
 ### To be added
 * Chemistry
-* Physics
 * Additional Mathematics
 * Modern Mathematics
 * Sejarah
