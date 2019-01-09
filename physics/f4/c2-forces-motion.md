@@ -8,4 +8,10 @@
 
 ## 2.4 - Analysing Momentum
 
+* [Momentum & Energy: Elastic and Inelastic Collisions](https://ophysics.com/e2.html) - oPhysics
 * [Conservation of momentum: Coin demonstration](https://www.youtube.com/watch?v=6zFkVEI6WAY) by saurav shome
+
+## 2.9 - Analysing Forces in Equilibrium
+
+* [Vector Addition](https://ophysics.com/k1.html) - oPhysics
+* [Static and Kinetic Friction on an Inclined Plane](https://ophysics.com/f2.html) - oPhysics
