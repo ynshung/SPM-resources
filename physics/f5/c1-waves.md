@@ -16,8 +16,9 @@
 
 ## 1.5 Analysing Interference of Waves
 
-[Wave Interference](https://ophysics.com/waves3a.html) - oPhysics
-[Wave Pulse Interference and Superposition](https://ophysics.com/w2.html) - oPhysics
-[Wave Interference: Beats](https://ophysics.com/waves10.html) - oPhysics
-[Surface Wave Interference in 3D](https://ophysics.com/w12.html) - oPhysics
-[The Original Double Slit Experiment](https://www.youtube.com/watch?v=Iuv6hY6zsd0) by Veritasium
+* [Wave Interference](https://ophysics.com/waves3a.html) - oPhysics
+* [Wave Pulse Interference and Superposition](https://ophysics.com/w2.html) - oPhysics
+* [Wave Interference: Beats](https://ophysics.com/waves10.html) - oPhysics
+* [Surface Wave Interference in 3D](https://ophysics.com/w12.html) - oPhysics
+* [The Original Double Slit Experiment](https://www.youtube.com/watch?v=Iuv6hY6zsd0) by Veritasium
+* [Arago/Poisson/Fresnel spot - The Brightest Part of a Shadow is in the Middle](https://www.youtube.com/watch?v=y9c8oZ49pFc&t=366s) by Veritasium
